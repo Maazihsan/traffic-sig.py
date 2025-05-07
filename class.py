@@ -6,4 +6,4 @@ class student:
 
 p1= student("maaz",21,620)
 print(p1.name , p1.age , p1. rollno)
-    
+
